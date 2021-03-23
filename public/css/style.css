@@ -68,10 +68,11 @@ h2 {
 .android1 {
   background-color: blue;
   margin-left: 100px;
-  z-index: -2;
+  position: absolute;
+  z-index: -1;
 }
 .tartine7 {
-  z-index: 1;
+  position: absolute;
 }
 
 /* fin exo position (priorité) */
